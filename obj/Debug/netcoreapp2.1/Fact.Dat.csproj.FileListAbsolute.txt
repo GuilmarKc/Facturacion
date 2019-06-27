@@ -1,0 +1,9 @@
+C:\Users\kayce\source\Repos\Sistema de Facturación - EMPRESA ROULLING CONSULTING E.I.R.L\Fact.Rouillon\Fact.Dat\bin\Debug\netcoreapp2.1\Fact.Dat.deps.json
+C:\Users\kayce\source\Repos\Sistema de Facturación - EMPRESA ROULLING CONSULTING E.I.R.L\Fact.Rouillon\Fact.Dat\bin\Debug\netcoreapp2.1\Fact.Dat.dll
+C:\Users\kayce\source\Repos\Sistema de Facturación - EMPRESA ROULLING CONSULTING E.I.R.L\Fact.Rouillon\Fact.Dat\bin\Debug\netcoreapp2.1\Fact.Dat.pdb
+C:\Users\kayce\source\Repos\Sistema de Facturación - EMPRESA ROULLING CONSULTING E.I.R.L\Fact.Rouillon\Fact.Dat\obj\Debug\netcoreapp2.1\Fact.Dat.csprojAssemblyReference.cache
+C:\Users\kayce\source\Repos\Sistema de Facturación - EMPRESA ROULLING CONSULTING E.I.R.L\Fact.Rouillon\Fact.Dat\obj\Debug\netcoreapp2.1\Fact.Dat.csproj.CoreCompileInputs.cache
+C:\Users\kayce\source\Repos\Sistema de Facturación - EMPRESA ROULLING CONSULTING E.I.R.L\Fact.Rouillon\Fact.Dat\obj\Debug\netcoreapp2.1\Fact.Dat.AssemblyInfoInputs.cache
+C:\Users\kayce\source\Repos\Sistema de Facturación - EMPRESA ROULLING CONSULTING E.I.R.L\Fact.Rouillon\Fact.Dat\obj\Debug\netcoreapp2.1\Fact.Dat.AssemblyInfo.cs
+C:\Users\kayce\source\Repos\Sistema de Facturación - EMPRESA ROULLING CONSULTING E.I.R.L\Fact.Rouillon\Fact.Dat\obj\Debug\netcoreapp2.1\Fact.Dat.dll
+C:\Users\kayce\source\Repos\Sistema de Facturación - EMPRESA ROULLING CONSULTING E.I.R.L\Fact.Rouillon\Fact.Dat\obj\Debug\netcoreapp2.1\Fact.Dat.pdb

@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>GuilmarCiriaco</Authors>
+    <RepositoryUrl>https://github.com/GuilmarKc/Facturacion.git</RepositoryUrl>
+    <Company />
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
